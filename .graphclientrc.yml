@@ -1,0 +1,5 @@
+sources:
+  - name: subgraph
+    handler:
+      graphql:
+        endpoint: https://api.studio.thegraph.com/query/32339/proof-of-groove/1
